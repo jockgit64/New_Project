@@ -26,6 +26,7 @@ Partial Class FirstWindow
         Me.SuspendLayout()
         '
         'PressMe
+        'Adding Text will it add to Project?
         '
         Me.PressMe.Location = New System.Drawing.Point(185, 171)
         Me.PressMe.Name = "PressMe"
